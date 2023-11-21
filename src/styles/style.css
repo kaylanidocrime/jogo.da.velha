@@ -3,7 +3,7 @@
 body {
 text-align: center;
 font-family: 'Roboto';
-background-color: #a1a8ab;
+background-color: #00FFFF;
 }
 
 .square {
@@ -15,7 +15,7 @@ padding: 40px;
 font-size: 60px;
 margin: 5px;
 cursor: pointer;
-color: #eee;
+color: #00FFFF;
 }
 
 .gamer, .winner {
@@ -27,7 +27,7 @@ button {
 margin-top: 10px;
 width: 100px;
 height: 30px;
-background: #eee;
+background: #00FFFF;
 
 cursor: pointer;
 }
@@ -37,11 +37,11 @@ display: flex;
 flex-direction: column;
 align-items: center;
 text-align: center;
-color: #FFF;
+color: #00FFFF;
 margin-top: 40px;
 }
 
 footer a {
 text-decoration: none;
-color: #FFF;
+color: #00FFFF;
 }
