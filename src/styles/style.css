@@ -9,13 +9,13 @@ background-color: #00FFFF;
 .square {
 text-align: center;
 width: 50px;
-background: #eee;
+background: #00FFFF;
 display: inline-block;
 padding: 40px;
 font-size: 60px;
 margin: 5px;
 cursor: pointer;
-color: #00FFFF;
+color: #FF00FF;
 }
 
 .gamer, .winner {
@@ -37,11 +37,11 @@ display: flex;
 flex-direction: column;
 align-items: center;
 text-align: center;
-color: #00FFFF;
+color: #FF00FF;
 margin-top: 40px;
 }
 
 footer a {
 text-decoration: none;
-color: #00FFFF;
+color: #FF00FF;
 }
